@@ -41,16 +41,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bda52d0-d5c4-427b-9226-7e636f9feba2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/models/pagination.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/models/pagination.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/models/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/models/product.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/shared.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shop/shop.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shop/shop.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shop/shop.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shop/shop.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shop/shop.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shop/shop.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shop/shop.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shop/shop.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/core/core.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/core/core.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/core/nav-bar/nav-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/core/nav-bar/nav-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,9 @@
     <setting file="file://$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/Interfaces/IGenericRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Errors/ApiValidationErrorResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/Interfaces/IProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/API/Errors/ApiResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Infrastructure/Data/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -134,6 +130,7 @@
       <updated>1593024299168</updated>
       <workItem from="1593024318051" duration="631000" />
       <workItem from="1593266804442" duration="996000" />
+      <workItem from="1593315531948" duration="139000" />
     </task>
     <servers />
   </component>
